@@ -1,42 +1,82 @@
 [
   {
     "id": 1,
-    "name": "TYT",
+    "name": "TYT 2026",
     "date": "20.06.2026"
   },
   {
     "id": 2,
-    "name": "AYT",
+    "name": "AYT 2026",
     "date": "21.06.2026"
   },
   {
     "id": 3,
-    "name": "LGS",
+    "name": "LGS 2026",
     "date": "13.06.2026"
   },
   {
     "id": 4,
-    "name": "DGS",
+    "name": "DGS 2026",
     "date": "19.07.2026"
   },
   {
     "id": 5,
-    "name": "KPSS Ortaöğretim",
+    "name": "KPSS Ortaöğretim 2026",
     "date": "25.10.2026"
   },
   {
     "id": 6,
-    "name": "KPSS Ön Lisans",
+    "name": "KPSS Ön Lisans 2026",
     "date": "04.10.2026"
   },
   {
     "id": 7,
-    "name": "KPSS Lisans GY-GK",
+    "name": "KPSS Lisans GY-GK 2026",
     "date": "06.09.2026"
   },
   {
     "id": 8,
-    "name": "KPSS Lisans Alan",
+    "name": "KPSS Lisans Alan 2026",
     "date": "12.09.2026"
+  },
+  {
+    "id": 101,
+    "name": "TYT 2027 (Tahmini)",
+    "date": "19.06.2027"
+  },
+  {
+    "id": 102,
+    "name": "AYT 2027 (Tahmini)",
+    "date": "20.06.2027"
+  },
+  {
+    "id": 103,
+    "name": "LGS 2027 (Tahmini)",
+    "date": "06.06.2027"
+  },
+  {
+    "id": 104,
+    "name": "DGS 2027 (Tahmini)",
+    "date": "18.07.2027"
+  },
+  {
+    "id": 105,
+    "name": "KPSS Ortaöğretim 2027 (Tahmini)",
+    "date": "24.10.2027"
+  },
+  {
+    "id": 106,
+    "name": "KPSS Ön Lisans 2027 (Tahmini)",
+    "date": "03.10.2027"
+  },
+  {
+    "id": 107,
+    "name": "KPSS Lisans GY-GK 2027 (Tahmini)",
+    "date": "05.09.2027"
+  },
+  {
+    "id": 108,
+    "name": "KPSS Lisans Alan 2027 (Tahmini)",
+    "date": "11.09.2027"
   }
 ]
