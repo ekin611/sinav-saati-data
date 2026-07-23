@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "TYT",
+    "date": "20.06.2026"
+  },
+  {
+    "id": 2,
+    "name": "AYT",
+    "date": "21.06.2026"
+  },
+  {
+    "id": 3,
+    "name": "LGS",
+    "date": "13.06.2026"
+  },
+  {
+    "id": 4,
+    "name": "DGS",
+    "date": "19.07.2026"
+  },
+  {
+    "id": 5,
+    "name": "KPSS Ortaöğretim",
+    "date": "25.10.2026"
+  },
+  {
+    "id": 6,
+    "name": "KPSS Ön Lisans",
+    "date": "04.10.2026"
+  },
+  {
+    "id": 7,
+    "name": "KPSS Lisans GY-GK",
+    "date": "06.09.2026"
+  },
+  {
+    "id": 8,
+    "name": "KPSS Lisans Alan",
+    "date": "12.09.2026"
+  }
+]
